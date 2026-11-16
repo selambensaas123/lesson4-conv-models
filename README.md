@@ -51,3 +51,7 @@
 
 ## Требования
 См. `requirements.txt`
+
+## Домашняя работа
+
+[Запуск экспериментов](homework/README.md) · [Отчёт](REPORT.md)
